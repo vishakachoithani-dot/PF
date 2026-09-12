@@ -20,4 +20,5 @@ int main(){
         printf("invalid choice!");
         
     }
+    return 0;
 }
